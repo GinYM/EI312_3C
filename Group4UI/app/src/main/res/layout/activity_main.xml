@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	
+    <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="30"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:background="@color/theme"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:text="Simple Mode" />
+    
+    
+    <FrameLayout 
+        android:id="@+id/id_content"
+        android:background="#cc99cc"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="270">
+
+        
+
+    </FrameLayout>
+    
+    <fragment 
+        android:id="@+id/frag_tab"
+        android:name="com.example.group4ui.TabFragment"
+		android:layout_height="0dp"
+		android:layout_width="match_parent"
+        android:layout_weight="35"/>
+    
+    
+    
+
+</LinearLayout>

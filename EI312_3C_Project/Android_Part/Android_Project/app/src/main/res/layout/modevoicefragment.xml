@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<TextView
+        android:id="@+id/txt_voice"
+	    android:text="Voice Mode"
+	    android:layout_height="match_parent"
+	    android:layout_width="match_parent"
+	    android:gravity="center"
+	    android:textSize="50dp"
+	    android:textColor="@color/subtab" />
+<!--    <TextView
+        android:id="@+id/txt_voice"
+	    android:text="Voice Mode"
+	    android:layout_height="wrap_content"
+	    android:layout_width="match_parent"
+	    android:gravity="center"
+	    android:textSize="50dp" />
+    
+    <Button
+            android:id="@+id/isr_grammar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="构建语法"
+            android:textSize="20sp"/>
+    
+    <Button
+            android:id="@+id/isr_recognize"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="开始识别"
+            android:textSize="20sp" />
+    
+    <Button
+            android:id="@+id/isr_stop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="停止录音"
+            android:textSize="20sp" />
+    
+    <Button
+            android:id="@+id/isr_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="取消"
+            android:textSize="20sp" /> -->
+</LinearLayout>

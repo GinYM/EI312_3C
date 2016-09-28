@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GinYM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\project\Android_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_29ea09e8718197719d99778c38f0fc8131747b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\Android_Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5c6dfcbc9c24d539e2c6328735e6c66014ced905">
+        <dex dex="C:\project\Android_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_abecef61fd7e825f815d751e4123bb339f1f8c8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\Android_Project\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85b276a3581f7e8f677cd0dc497465de05ee17e">
+        <dex dex="C:\project\Android_Project\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_ed9542db8003c16e76b598eb8dbed3959683f683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\Android_Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9008d17c16d265bd2955a0a21edafd8e0d661686">
+        <dex dex="C:\project\Android_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_67eda2c672b742af1202cb3a9a5c0fcb915c7d46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\Android_Project\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="58d4bb459c9b39f8ed2d698ad63cf77a799ea9a2">
+        <dex dex="C:\project\Android_Project\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_8d817379dcb890fb0bf353af851556249b24516c\classes.dex" />
+    </item>
+
+</items>

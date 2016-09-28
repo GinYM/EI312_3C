@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\project\Android_Project\app\src\main\assets"><file name="call.bnf" path="C:\project\Android_Project\app\src\main\assets\call.bnf"/><file name="grammar_sample.abnf" path="C:\project\Android_Project\app\src\main\assets\grammar_sample.abnf"/></source><source path="C:\project\Android_Project\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\project\Android_Project\app\src\debug\assets"/></dataSet></merger>

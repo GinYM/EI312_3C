@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="30"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:background="@color/theme"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:text="IP Address Set" />
+    
+    
+    <LinearLayout 
+        android:background="@color/background"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="270"
+        android:orientation="vertical">
+		
+        <TextView 
+            android:background="@color/background"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="30" />
+        
+        <EditText 
+	        android:id="@+id/edit_txt_IP"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="Input IP here"/>
+        
+        <TextView 
+            android:background="@color/background"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="30" />
+    </LinearLayout>
+   
+	    <Button 
+	        android:id="@+id/btn_IP_OK"
+	        android:layout_width="match_parent"
+	        android:layout_height="0dp"
+	        android:layout_weight="35"
+	        android:background="@color/theme"
+	        android:text="OK"
+	        android:textSize="25dp"
+	        android:textColor="@color/white"
+	        android:gravity="center"/>
+   
+    
+    
+    
+
+</LinearLayout>

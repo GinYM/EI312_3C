@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et_border.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable\\et_border.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_switchvideo_bg.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable\\btn_switchvideo_bg.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_bg.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable\\video_bg.xml"
+    }
+]
