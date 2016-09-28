@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background" >
+    
+    <Button 
+	    android:id="@+id/btn_center"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerInParent="true"
+	    android:layout_centerHorizontal="true"
+	    android:drawableTop="@drawable/centerpurple"
+	    android:background="@color/background" />
+	<Button 
+	    android:id="@+id/btn_up_arrow"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_above="@id/btn_center"
+	    android:layout_centerHorizontal="true"
+	    android:drawableTop="@drawable/uparrowpink"
+	    android:background="@color/background" />
+	<Button 
+	    android:id="@+id/btn_left_arrow"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_toLeftOf="@id/btn_center"
+	    android:layout_below="@id/btn_up_arrow"
+	    android:drawableTop="@drawable/leftarrowpink"
+	    android:background="@color/background" />
+	<Button 
+	    android:id="@+id/btn_right_arrow"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_toRightOf="@id/btn_center"
+	    android:layout_below="@id/btn_up_arrow"
+	    android:drawableTop="@drawable/rightarrowpink"
+	    android:background="@color/background" />
+	<Button 
+	    android:id="@+id/btn_down_arrow"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/btn_center"
+	    android:layout_toRightOf="@id/btn_left_arrow"
+	    android:layout_toLeftOf="@id/btn_right_arrow"
+	    android:drawableTop="@drawable/downarrowpink"
+	    android:background="@color/background" />
+	
+	
+</RelativeLayout>

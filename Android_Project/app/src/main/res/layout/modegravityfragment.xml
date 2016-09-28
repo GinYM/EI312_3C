@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="50dp" />
+    
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="match_parent"
+        android:max="6"
+        android:progress="3"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <com.example.group4ui.RotateTextView
+        android:id="@+id/txt_gravity_y"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:layout_weight="10"
+        android:text="Gravity Mode"
+        android:textColor="@color/subtab"
+        android:textSize="50dp" />
+
+</LinearLayout>

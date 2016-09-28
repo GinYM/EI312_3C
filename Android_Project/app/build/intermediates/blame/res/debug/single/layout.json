@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videofragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\videofragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\isrdemo.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\isrdemo.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simplefragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\simplefragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_frame.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\video_frame.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabfragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\tabfragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_live_video.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\activity_live_video.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepathfragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\gesturepathfragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gesturesimplefragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\gesturesimplefragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vactivity_main.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\vactivity_main.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\activity_ip.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videoconfig.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\videoconfig.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_face_recognization.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\activity_face_recognization.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\role_list.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\role_list.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modebuttonfragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\modebuttonfragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_session.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\video_session.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modevoicefragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\modevoicefragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gesturesfragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\gesturesfragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modegravityfragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\modegravityfragment.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gestureflexiblefragment.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\layout\\gestureflexiblefragment.xml"
+    }
+]

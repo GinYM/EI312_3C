@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_on.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\camera_on.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rightarrowpink.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\rightarrowpink.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\role_4.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\role_4.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_off.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\camera_off.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\videogray.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\videogray.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smalltip_2.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\smalltip_2.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\role_1.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\role_1.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ip.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\ip.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\simplegray.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\simplegray.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\leftarrowpink.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\leftarrowpink.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\downarrowpink.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\downarrowpink.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\centerpurple.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\centerpurple.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smalltip_4.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\smalltip_4.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\role_2.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\role_2.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smalltip_1.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\smalltip_1.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\leftarrowpurple.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\leftarrowpurple.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_login_01.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\btn_login_01.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\role_5.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\role_5.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_logout_01.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\btn_logout_01.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\simplewhite.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\simplewhite.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\goback.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\goback.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\speak_on.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\speak_on.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\speak_off.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\speak_off.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_warting_01.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\btn_warting_01.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smalltip_3.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\smalltip_3.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\centerpink.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\centerpink.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gesturegray.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\gesturegray.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uparrowpink.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\uparrowpink.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\videowhite.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\videowhite.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rightarrowpurple.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\rightarrowpurple.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cell_01.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\cell_01.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gesturewhite.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\gesturewhite.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uparrow.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\uparrow.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\downarrowpurple.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\downarrowpurple.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switchvideo.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\switchvideo.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\role_3.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\role_3.png"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uparrowpurple.png",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\uparrowpurple.png"
+    }
+]

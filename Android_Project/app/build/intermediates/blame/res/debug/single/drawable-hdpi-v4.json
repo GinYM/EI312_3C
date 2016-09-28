@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoremote_bg.jpg",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\videoremote_bg.jpg"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_state_focused.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\btn_state_focused.xml"
+    },
+    {
+        "merged": "C:\\project\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_background.xml",
+        "source": "C:\\project\\Android_Project\\app\\src\\main\\res\\drawable-hdpi\\button_background.xml"
+    }
+]

@@ -1,0 +1,9 @@
+#BNF+IAT 1.0 UTF-8;
+!grammar call;
+!slot <contact>;
+!slot <callPre>;
+!slot <callPhone>;
+!slot <callTo>;
+!start <callStart>;
+<callStart>:<contact>;
+<contact>:前进|后退|左转|右转|停止;
